@@ -3,3 +3,6 @@ let y = 20;
 
 let subirane = x + y;
 console.log(subirane);
+
+let izvajdane = x - y;
+console.log(izvajdane);
